@@ -8,3 +8,7 @@
 2. Установите зависимости:
    ```bash
    pip install -r requirements.txt
+
+3. Запустите эмулятор:
+   ```bash
+   python shell_emulator.py <username> <hostname> <vfs_path> <log_path> <startup_script>
